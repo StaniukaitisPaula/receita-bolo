@@ -15,7 +15,7 @@ div{
     height: 50px;
 }
 .bolo{
-    height: 380px;
+    height: 360px;
 }
 main{
     display: flex;
@@ -42,3 +42,12 @@ main{
  .foto-bolo{
      width: 380px;
  }
+ .ingredientes-container{
+     width: 600px;
+     background-color: yellowgreen;
+ }
+ .ingredientes-container{
+     padding-left: 32px;
+ }
+
+ 
